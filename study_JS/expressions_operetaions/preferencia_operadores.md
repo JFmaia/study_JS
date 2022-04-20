@@ -1,4 +1,4 @@
-## Nesta aula mostraremos a precedência dos operadores, ou seja, a ordem de importância de cada um deles.
+## Neste arquivos mostraremos a precedência dos operadores, ou seja, a ordem de importância de cada um deles.
 
 > De cima para baixo, do mais importante ao menos importante.
 
